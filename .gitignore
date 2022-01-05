@@ -12,7 +12,7 @@ test-report.xml
 eslint-report.json
 
 # production
-/build
+#/build jaja - Ricky
 
 # misc
 .DS_Store
